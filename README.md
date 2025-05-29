@@ -3,5 +3,7 @@
 - 🌱 I’m currently learning english language and recently i finished python backend and django course.
 - 💞️ I’m looking to collaborate on make a web site backends and make a game backend side.  
 - 📫 How to reach me my email guidevirgate@gmail.com
+- Thats my linked in link linkedin.com/in/kamoliddin-qobulov-9502662a6
+- And my telegram https://t.me/Vira_Krajevskiy
 - 😄 Pronouns: VIRA
 - ⚡ Fun fact:I like joke.
