@@ -1,9 +1,32 @@
 - 👋 Hi, I’m @ViraKrajevskiy.
-- 👀 I’m interested in making a websites backend and i like make games in PyGame, Unity.
-- 🌱 I’m currently learning english language and recently i finished python backend and django course.
-- 💞️ I’m looking to collaborate on make a web site backends and make a game backend side.  
-- 📫 How to reach me my email guidevirgate@gmail.com
-- Thats my linked in link linkedin.com/in/kamoliddin-qobulov-9502662a6
-- And my telegram https://t.me/Vira_Krajevskiy
+- 👀 I’m interested in backend development for websites, and I enjoy making games with PyGame and Unity.
+- 🌱 I’m currently learning English and have recently completed a Python Backend and Django course.
+- 💞️ I’m looking to collaborate on backend development for websites or games.
+- 📫 You can reach me via email: guidevirgate@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/kamoliddin-qobulov-9502662a6
+- 💬 Telegram: https://t.me/Vira_Krajevskiy
 - 😄 Pronouns: VIRA
-- ⚡ Fun fact:I like joke.
+- ⚡ Fun fact: I enjoy making jokes.
+- 🧠 My projects include personal work and large-scale backend orders. For example, an LMS backend: http://142.93.172.100/swagger/
+
+- 👋 Привет, я — @ViraKrajevskiy.
+- 👀 Я интересуюсь разработкой бэкенда для веб-сайтов и люблю создавать игры на PyGame и Unity.
+- 🌱 Сейчас я изучаю английский язык и недавно завершил курс по Python backend и Django.
+- 💞️ Хочу сотрудничать в проектах по разработке бэкенда для сайтов или игр.
+- 📫 Мой email: guidevirgate@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/kamoliddin-qobulov-9502662a6
+- 💬 Telegram: https://t.me/Vira_Krajevskiy
+- 😄 Обращайтесь ко мне: VIRA
+- ⚡ Интересный факт: люблю шутить.
+- 🧠 Мои проекты включают как личные работы, так и крупные заказы. Пример: бэкенд LMS-системы — http://142.93.172.100/swagger/
+
+- 👋 Salom, men @ViraKrajevskiy.
+- 👀 Veb-saytlar uchun backend yaratishga qiziqaman, shuningdek, PyGame va Unity orqali o‘yinlar yaratishni yoqtiraman.
+- 🌱 Hozirda ingliz tilini o‘rganyapman va yaqinda Python backend va Django kursini tamomladim.
+- 💞️ Veb-saytlar yoki o‘yinlar uchun backend yaratishda hamkorlik qilmoqchiman.
+- 📫 Menga quyidagi email orqali bog‘lanishingiz mumkin: guidevirgate@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/kamoliddin-qobulov-9502662a6
+- 💬 Telegram: https://t.me/Vira_Krajevskiy
+- 😄 Meni VIRA deb atang.
+- ⚡ Qiziqarli fakt: hazil qilishni yoqtiraman.
+- 🧠 Mening loyihalarimga shaxsiy ishlar va katta buyurtmalar kiradi. Masalan: LMS tizimi backend: http://142.93.172.100/swagger/
