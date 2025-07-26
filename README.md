@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I enjoy making jokes.
 - 🧠 **Some of my projects:**
   - ✅ LMS backend system (Swagger): http://142.93.172.100/swagger/
-  - ✅ Full-featured portfolio website for a professional artist: http://142.93.172.100/
+  - ✅Website for a professional artist and artist Alisher Mirzo: http://142.93.172.100/
 -
 -
 -
@@ -24,7 +24,7 @@
 - ⚡ Интересный факт: люблю шутить.
 - 🧠 **Мои проекты:**
   - ✅ Бэкенд LMS-система (Swagger): http://142.93.172.100/swagger/
-  - ✅ Полноценный сайт-портфолио для профессионального художника: http://142.93.172.100/
+  - ✅ Полноценный сайт для профессионального художника также писателя Алишера Мирзо: http://142.93.172.100/
 -
 -
 -
@@ -39,5 +39,5 @@
 - ⚡ Qiziqarli fakt: hazil qilishni yaxshi ko‘raman.
 - 🧠 **Mening loyihalarim:**
   - ✅ LMS tizimi uchun backend (Swagger): http://142.93.172.100/swagger/
-  - ✅ Professional rassom uchun to‘liq tayyorlangan portfolio sayti: http://142.93.172.100/
+  - ✅ Professional rassom va yozuvchi Alisher Mirzo ning web sayti: http://142.93.172.100/
 
