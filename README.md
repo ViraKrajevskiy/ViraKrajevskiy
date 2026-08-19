@@ -5,6 +5,7 @@
 - 📫 You can reach me via email: guidevirgate@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/kamoliddin-qobulov-9502662a6](https://linkedin.com/in/kamoliddin-qobulov-9502662a6)
 - 💬 Telegram: [@Vira_Krajevskiy](https://t.me/Vira_Krajevskiy)
+- My website : https://virakrajevskiy.duckdns.org/
 - 😄 Pronouns: VIRA
 - ⚡ Fun fact: I enjoy making jokes.
 - 🧠 **Some of my projects:**
